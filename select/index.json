@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Invoke",
+  "base_artist": "T.M.Revolution",
+  "createdAt": "2026-02-17T11:16:31.422869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Invoke the Machine",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/01_Invoke_the_Machine_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Invoke The Machine",
+      "artist": "Tobias Sammet's Avantasia",
+      "has_synced": true,
+      "path": "select/02_Invoke_The_Machine_Tobias_Sammet's_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Invoke the Machine (Live)",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/03_Invoke_the_Machine_(Live)_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "INVOKE",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/04_INVOKE_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "INVOKE",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/05_INVOKE_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "INVOKE -インヴォーク-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/06_INVOKE_-インヴォーク-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "INVOKE",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/07_INVOKE_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "INVOKE -インヴォーク-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/08_INVOKE_-インヴォーク-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Invoke Reform",
+      "artist": "Haste the Day",
+      "has_synced": true,
+      "path": "select/09_Invoke_Reform_Haste_the_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "INVOKE-インヴォーク-",
+      "artist": "Photon Maiden",
+      "has_synced": true,
+      "path": "select/10_INVOKE-インヴォーク-_Photon_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Invoke the Horned God",
+      "artist": "Cruachan",
+      "has_synced": true,
+      "path": "select/11_To_Invoke_the_Horned_God_Cruachan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Invoke the Oath",
+      "artist": "Mayhem",
+      "has_synced": true,
+      "path": "select/12_Invoke_the_Oath_Mayhem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "INVOKE -インヴォーク- ~phase shift armoured version",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/13_INVOKE_-インヴォーク-_~phase_shift_armoured_version_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "INVOKE -インヴォーク-(phase shift armoured version)",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/14_INVOKE_-インヴォーク-(phase_shift_armoured_version)_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INVOKE",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_01_INVOKE_T.M.Revolution.txt"
+    }
+  ]
+}
